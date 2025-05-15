@@ -1,0 +1,81 @@
+   body {
+    font-family: sans-serif; 
+    background-color:#003366ff;
+} 
+header{
+    border:3px solid #c7ff33; 
+    border-radius:15px; 
+    text-align:center;  
+    
+} 
+nav{
+    display:flex; 
+    justify-content:space-around;
+} 
+a{
+    color:black; 
+    text-decoration:none; 
+    margin:20px;  
+    border:1px solid #c7ff33; 
+    border-radius:15px; 
+    padding:10px; 
+    padding-left:20px; 
+    padding-right:20px;
+
+} 
+.glav{
+    border-bottom:4px solid black; 
+    font-size:25px;
+} 
+.glaw{
+    font-size:20px;
+}
+h3{
+    font-size:25px; 
+    border-bottom:4px solid #c7ff33; 
+
+} 
+img{
+    width:200px; 
+    height:190px; 
+
+} 
+.sofia{
+    width:200px; 
+    margin-top:10px;
+} 
+.hikita{
+    width:200px;
+} 
+.vasiliy{
+    margin-left:270px;
+} 
+.vasilia{ 
+    float:right; 
+    width:270px;
+
+} 
+.lera{
+    margin-left:260px;
+} 
+.llera{
+    float:right; 
+    width:200px;
+} 
+ul{
+    margin-top:15px;
+} 
+li{
+    margin-top:35px;
+} 
+.zapis{ 
+    border-bottom:4px solid black; 
+    font-size:25px; 
+    margin-top:25px;
+
+} 
+.nomer{
+    font-size:35px;  
+    float:left;
+
+}
